@@ -1,12 +1,122 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Projects\\IOT Device Management\\IoTDeviceManagement\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6668FD67-945C-44FC-8777-FADFFD0491CE}|IoTDeviceManagement.API\\IoTDeviceManagement.API.csproj|d:\\projects\\iot device management\\iotdevicemanagement\\iotdevicemanagement.api\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6668FD67-945C-44FC-8777-FADFFD0491CE}|IoTDeviceManagement.API\\IoTDeviceManagement.API.csproj|solutionrelative:iotdevicemanagement.api\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6668FD67-945C-44FC-8777-FADFFD0491CE}|IoTDeviceManagement.API\\IoTDeviceManagement.API.csproj|d:\\projects\\iot device management\\iotdevicemanagement\\iotdevicemanagement.api\\models\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6668FD67-945C-44FC-8777-FADFFD0491CE}|IoTDeviceManagement.API\\IoTDeviceManagement.API.csproj|solutionrelative:iotdevicemanagement.api\\models\\alert.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6668FD67-945C-44FC-8777-FADFFD0491CE}|IoTDeviceManagement.API\\IoTDeviceManagement.API.csproj|d:\\projects\\iot device management\\iotdevicemanagement\\iotdevicemanagement.api\\models\\userdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6668FD67-945C-44FC-8777-FADFFD0491CE}|IoTDeviceManagement.API\\IoTDeviceManagement.API.csproj|solutionrelative:iotdevicemanagement.api\\models\\userdevice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6668FD67-945C-44FC-8777-FADFFD0491CE}|IoTDeviceManagement.API\\IoTDeviceManagement.API.csproj|d:\\projects\\iot device management\\iotdevicemanagement\\iotdevicemanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6668FD67-945C-44FC-8777-FADFFD0491CE}|IoTDeviceManagement.API\\IoTDeviceManagement.API.csproj|solutionrelative:iotdevicemanagement.api\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6668FD67-945C-44FC-8777-FADFFD0491CE}|IoTDeviceManagement.API\\IoTDeviceManagement.API.csproj|d:\\projects\\iot device management\\iotdevicemanagement\\iotdevicemanagement.api\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6668FD67-945C-44FC-8777-FADFFD0491CE}|IoTDeviceManagement.API\\IoTDeviceManagement.API.csproj|solutionrelative:iotdevicemanagement.api\\models\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6668FD67-945C-44FC-8777-FADFFD0491CE}|IoTDeviceManagement.API\\IoTDeviceManagement.API.csproj|d:\\projects\\iot device management\\iotdevicemanagement\\iotdevicemanagement.api\\models\\devicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6668FD67-945C-44FC-8777-FADFFD0491CE}|IoTDeviceManagement.API\\IoTDeviceManagement.API.csproj|solutionrelative:iotdevicemanagement.api\\models\\devicetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\Projects\\IOT Device Management\\IoTDeviceManagement\\IoTDeviceManagement.API\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "IoTDeviceManagement.API\\Models\\Event.cs",
+              "ToolTip": "D:\\Projects\\IOT Device Management\\IoTDeviceManagement\\IoTDeviceManagement.API\\Models\\Event.cs",
+              "RelativeToolTip": "IoTDeviceManagement.API\\Models\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:30:56.289Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alert.cs",
+              "DocumentMoniker": "D:\\Projects\\IOT Device Management\\IoTDeviceManagement\\IoTDeviceManagement.API\\Models\\Alert.cs",
+              "RelativeDocumentMoniker": "IoTDeviceManagement.API\\Models\\Alert.cs",
+              "ToolTip": "D:\\Projects\\IOT Device Management\\IoTDeviceManagement\\IoTDeviceManagement.API\\Models\\Alert.cs",
+              "RelativeToolTip": "IoTDeviceManagement.API\\Models\\Alert.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:29:34.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserDevice.cs",
+              "DocumentMoniker": "D:\\Projects\\IOT Device Management\\IoTDeviceManagement\\IoTDeviceManagement.API\\Models\\UserDevice.cs",
+              "RelativeDocumentMoniker": "IoTDeviceManagement.API\\Models\\UserDevice.cs",
+              "ToolTip": "D:\\Projects\\IOT Device Management\\IoTDeviceManagement\\IoTDeviceManagement.API\\Models\\UserDevice.cs",
+              "RelativeToolTip": "IoTDeviceManagement.API\\Models\\UserDevice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:27:34.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Projects\\IOT Device Management\\IoTDeviceManagement\\IoTDeviceManagement.API\\Models\\User.cs",
+              "RelativeDocumentMoniker": "IoTDeviceManagement.API\\Models\\User.cs",
+              "ToolTip": "D:\\Projects\\IOT Device Management\\IoTDeviceManagement\\IoTDeviceManagement.API\\Models\\User.cs",
+              "RelativeToolTip": "IoTDeviceManagement.API\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:24:57.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeviceType.cs",
+              "DocumentMoniker": "D:\\Projects\\IOT Device Management\\IoTDeviceManagement\\IoTDeviceManagement.API\\Models\\DeviceType.cs",
+              "RelativeDocumentMoniker": "IoTDeviceManagement.API\\Models\\DeviceType.cs",
+              "ToolTip": "D:\\Projects\\IOT Device Management\\IoTDeviceManagement\\IoTDeviceManagement.API\\Models\\DeviceType.cs",
+              "RelativeToolTip": "IoTDeviceManagement.API\\Models\\DeviceType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:22:38.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\Projects\\IOT Device Management\\IoTDeviceManagement\\IoTDeviceManagement.API\\Models\\Device.cs",
+              "RelativeDocumentMoniker": "IoTDeviceManagement.API\\Models\\Device.cs",
+              "ToolTip": "D:\\Projects\\IOT Device Management\\IoTDeviceManagement\\IoTDeviceManagement.API\\Models\\Device.cs",
+              "RelativeToolTip": "IoTDeviceManagement.API\\Models\\Device.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T12:21:04.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
