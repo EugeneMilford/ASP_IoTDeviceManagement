@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("IoTDeviceManagement.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+20310fa2f2171da86a85f4418f0e25e6940ab815")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+691c92755139a2dafd986a509327374c79806ee3")]
 [assembly: System.Reflection.AssemblyProductAttribute("IoTDeviceManagement.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("IoTDeviceManagement.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
